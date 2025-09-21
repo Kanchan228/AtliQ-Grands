@@ -35,6 +35,4 @@ The analysis includes various hotel types, room categories, occupancy trends, re
   - Bar charts for categorical comparisons
   - Pie charts for proportion analysis
 
----
 
-## Project Structure
